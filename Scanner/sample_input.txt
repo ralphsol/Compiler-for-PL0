@@ -1,0 +1,12 @@
+int vara , varb , varc , vard ;
+{
+    read(vara);
+    read(varb);
+    varc := vara + varb;
+    vard := vara - varb;
+    print(varc);
+    print(vard);
+
+}
+
+(*comments*)
